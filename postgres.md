@@ -1,0 +1,5 @@
+
+
+```
+psql -U <username>
+```
